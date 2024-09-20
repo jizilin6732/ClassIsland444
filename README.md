@@ -13,32 +13,32 @@
 ClassIsland 是一款适用于班级多媒体屏幕的课表信息显示工具，可以在 Windows 屏幕上显示各种信息。<br/>
 本应用的名字灵感源于 iOS 灵动岛（Dynamic Island）功能。
 
-#### [ClassIsland 网站](https://classisland.tech/)｜[ClassIsland 文档](https://docs.classisland.tech)｜[QQ 频道](https://pd.qq.com/s/scb3wzia)
+#### [ClassIsland 网站](https://classisland.tech/)｜[ClassIsland 官方文档](https://docs.classisland.tech)｜[QQ 官方频道](https://pd.qq.com/s/scb3wzia)
 
-###### [观看介绍视频，快速了解突破创新 →](https://bilibili.com/video/BV1Lt421n7op/)
+###### [观看视频，快速了解极致创新 →](https://www.bilibili.com/video/BV1EEsNeYEc9/)
 </div>
 
 ## 功能
-💡 您可以点击下方链接或查看 [ClassIsland 文档](https://docs.classisland.tech) 了解更多。
+💡 您可以点击下方链接或查看 [ClassIsland 官方文档](https://docs.classisland.tech) 了解更多。
 
 ### 课表显示
-- [X] 显示当天的课表、当前进行课程的信息
-- [X] 在上下课等重要时间点发出[提醒](https://docs.classisland.tech/app/notifications)，自选搭配音效、强调特效和语音[增强提醒](https://docs.classisland.tech/app/notifications#强调提醒)
-- [X] 自选课表隐藏条件、临时隐藏与鼠标穿透，不影响授课
+- [✔] 显示当天的课表、当前进行课程的信息
+- [✔] 在上下课等重要时间点发出[提醒](https://docs.classisland.tech/app/notifications)，自选搭配音效、强调特效和语音[增强提醒](https://docs.classisland.tech/app/notifications#强调提醒)
+- [✔] 自选课表隐藏条件、临时隐藏与鼠标穿透，不影响授课
 
 ### 课表编辑与管理
-- [X] 简洁直观的[课表编辑工具](https://docs.classisland.tech/app/classplan)
-- [X] 从 Excel 或其他软件[导入课表](https://docs.classisland.tech/app/profile/#%E4%BB%8E%E8%A1%A8%E6%A0%BC%E5%AF%BC%E5%85%A5)
-- [X] 多周轮换、快速录入时间表、自定义设置
-- [X] 临时换课、临时启用某个课表
+- [✔] 简洁直观的[课表编辑工具](https://docs.classisland.tech/app/classplan)
+- [✔] 从 Excel 或其他软件[导入课表](https://docs.classisland.tech/app/profile/#%E4%BB%8E%E8%A1%A8%E6%A0%BC%E5%AF%BC%E5%85%A5)
+- [✔] 多周轮换、快速录入时间表、自定义设置
+- [✔] 临时换课、临时启用某个课表
 
-### 其它功能
-- [X] 自动同步软件时间、手动对齐铃声
-- [X] [天气](https://docs.classisland.tech/app/advanced#天气)、极端天气预警
-- [X] 通过[组件](https://docs.classisland.tech/app/basic#组件)（日期、时间、天气简报、倒计日等）和[插件](https://docs.classisland.tech/app/basic#组件)高度自定义 ClassIsland
-- [X] 丝滑、流畅的过渡动画
-- [X] 自动获取与系统配色搭配的主题色
-- [X] 自动软件更新
+### 特色功能
+- [✔] 自动同步软件时间、手动对齐铃声
+- [✔] [天气](https://docs.classisland.tech/app/advanced#天气)、极端天气预警
+- [✔] 通过[组件](https://docs.classisland.tech/app/basic#组件)（日期、时间、天气简报、倒计日等）和[插件](https://docs.classisland.tech/app/basic#组件)高度自定义 ClassIsland
+- [✔] 丝滑、流畅的过渡动画
+- [✔] 自动获取与系统配色搭配的主题色
+- [✔] 自动软件更新
 - [ ] [集控管理](https://docs.classisland.tech/management)_（即将发布）_
 - [ ] ……
 
@@ -89,7 +89,7 @@ ClassIsland 是一款适用于班级多媒体屏幕的课表信息显示工具�
 - 安装 [.NET 8.0 桌面运行时](https://dotnet.microsoft.com/zh-cn/download/dotnet/thank-you/runtime-desktop-8.0.7-windows-x64-installer)
 
 > [!important]
-> **详细安装说明请参阅 [ClassIsland 文档](https://docs.classisland.tech/app/setup)。**
+> **详细安装说明请参阅 [ClassIsland 官方文档](https://docs.classisland.tech/app/setup)。**
 > 
 > 不建议在 Windows 10 以下的系统运行本应用。 在 Windows 7 中，.NET 运行时会产生**严重的内存泄漏问题**。如果您执意要在 Windows 7 中使用 ClassIsland，请参阅[在 Windows 7 中安装 ClassIsland](https://docs.classisland.tech/app/setup#检查系统需求)。
 
